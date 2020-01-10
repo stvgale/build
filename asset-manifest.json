@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54295aed.chunk.css",
+    "main.js": "/static/js/main.2e329d00.chunk.js",
+    "main.js.map": "/static/js/main.2e329d00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a9ef57c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a9ef57c.js.map",
+    "static/js/2.055330ad.chunk.js": "/static/js/2.055330ad.chunk.js",
+    "static/js/2.055330ad.chunk.js.map": "/static/js/2.055330ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fb5367514b4b250a30f7260d384a3c9d.js": "/precache-manifest.fb5367514b4b250a30f7260d384a3c9d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.54295aed.chunk.css.map": "/static/css/main.54295aed.chunk.css.map",
+    "static/js/2.055330ad.chunk.js.LICENSE": "/static/js/2.055330ad.chunk.js.LICENSE",
+    "static/media/ash.jpg": "/static/media/ash.3bc6f2c5.jpg",
+    "static/media/aspire.jpg": "/static/media/aspire.e771c1c8.jpg",
+    "static/media/aspire1.jpg": "/static/media/aspire1.04727603.jpg",
+    "static/media/aspire3.jpg": "/static/media/aspire3.91481c56.jpg",
+    "static/media/aspire4.jpg": "/static/media/aspire4.37e1a99d.jpg",
+    "static/media/bcd.jpg": "/static/media/bcd.00cc5561.jpg",
+    "static/media/cover.jpg": "/static/media/cover.59ff6c4d.jpg",
+    "static/media/craft.jpg": "/static/media/craft.376f17cb.jpg",
+    "static/media/craft1.jpg": "/static/media/craft1.9d403476.jpg",
+    "static/media/craft2.jpg": "/static/media/craft2.e06be03f.jpg",
+    "static/media/craft3.jpg": "/static/media/craft3.a7bced34.jpg",
+    "static/media/craft4.jpg": "/static/media/craft4.1673ae81.jpg",
+    "static/media/craft5.jpg": "/static/media/craft5.1cce36e4.jpg",
+    "static/media/craft6.jpg": "/static/media/craft6.6a2208f9.jpg",
+    "static/media/ikka1.jpg": "/static/media/ikka1.7864ddfd.jpg",
+    "static/media/ikka2.jpg": "/static/media/ikka2.326377bf.jpg",
+    "static/media/ikka3.jpg": "/static/media/ikka3.aa8a792b.jpg",
+    "static/media/ikka4.jpg": "/static/media/ikka4.02c5554c.jpg",
+    "static/media/msft.jpg": "/static/media/msft.495744f0.jpg",
+    "static/media/trees.jpg": "/static/media/trees.91b9d1d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9ef57c.js",
+    "static/js/2.055330ad.chunk.js",
+    "static/css/main.54295aed.chunk.css",
+    "static/js/main.2e329d00.chunk.js"
+  ]
+}
